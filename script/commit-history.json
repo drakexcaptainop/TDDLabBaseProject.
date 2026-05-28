@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "bd0a81b98fc8f87896bcaa324eb1fc338e061bbe",
     "author": "cazadorDeColombianos",
     "commit": {
       "date": "2026-05-28T00:54:35.000Z",
       "message": "simple sum",
-      "url": "https://github.com/drakexcaptainop/TDDLabBaseProject./commit/HEAD"
+      "url": "https://github.com/drakexcaptainop/TDDLabBaseProject./commit/bd0a81b98fc8f87896bcaa324eb1fc338e061bbe"
     },
     "stats": {
       "total": 12,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "cazadorDeColombianos",
+    "commit": {
+      "date": "2026-05-28T00:56:53.000Z",
+      "message": "single number sum",
+      "url": "https://github.com/drakexcaptainop/TDDLabBaseProject./commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 6,
+      "deletions": 1,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
   }

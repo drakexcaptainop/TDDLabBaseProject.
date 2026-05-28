@@ -38,9 +38,23 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "bd0a81b98fc8f87896bcaa324eb1fc338e061bbe",
     "commitName": "simple sum",
     "commitTimestamp": 1779929675412,
     "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1779929789756,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "single number sum",
+    "commitTimestamp": 1779929814363,
+    "testId": 2
   }
 ]
