@@ -66,9 +66,23 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b71d87154867eb7a1794deb98f2918a22f70d8d4",
     "commitName": "single number sum",
     "commitTimestamp": 1779929918656,
     "testId": 3
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1779929977457,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "single number sum",
+    "commitTimestamp": 1779929996664,
+    "testId": 4
   }
 ]
