@@ -14,7 +14,10 @@ function sumar(cadena) {
   }
 
   const regex = new RegExp(separadores.map(d => d.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|'));
-  return numerosStr.split(regex).reduce((acc, n) => acc + parseInt(n, 10), 0);
+  return numerosStr.split(regex).reduce((acc, n) => {
+    const num = parseFloat(n, 10);
+    return num <= 1000 ? acc + num : acc;
+  }, 0);
 }
 
 export default sumar;
