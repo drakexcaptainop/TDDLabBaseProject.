@@ -130,9 +130,39 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "6668bc7826e4257964f36005e44072bb039a433d",
     "commitName": "hyphen split add",
     "commitTimestamp": 1779930272493,
     "testId": 7
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 1,
+    "numTotalTests": 7,
+    "timestamp": 1779930336009,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1779930354658,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1779930406486,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "hyphen split add",
+    "commitTimestamp": 1779930409894,
+    "testId": 8
   }
 ]

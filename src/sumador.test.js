@@ -22,6 +22,14 @@ describe("Calculadora de cadenas", () => {
   it("debería retornar la suma usando guion como separador", () => {
     expect(sumar("1-2-3,5")).toEqual(11);
   });
+
+  it("debería retornar la suma usando un delimitador personalizado especificado", () => {
+    expect(sumar("//[;] 6;7;4")).toEqual(17);
+  });
+
+  it("debería retornar la suma usando un delimitador personalizado especificado", () => {
+    expect(sumar("//[:] 6:7:4")).toEqual(17);
+  });
 });
 
 
