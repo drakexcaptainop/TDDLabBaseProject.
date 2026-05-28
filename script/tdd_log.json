@@ -16,9 +16,31 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b876f89af8831f7c0ffcff454e76c41aca74dea7",
     "commitName": "initial run",
     "commitTimestamp": 1779924523441,
     "testId": 0
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1779924993799,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1779925200052,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "simple sum",
+    "commitTimestamp": 1779929675412,
+    "testId": 1
   }
 ]
