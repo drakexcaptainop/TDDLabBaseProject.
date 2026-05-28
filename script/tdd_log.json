@@ -108,9 +108,31 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "c9e89906c08481bf86e28bf1e15f80e90fd7b4f6",
     "commitName": "multi number sum fix",
     "commitTimestamp": 1779930132979,
     "testId": 6
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1779930226277,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1779930245666,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "hyphen split add",
+    "commitTimestamp": 1779930272493,
+    "testId": 7
   }
 ]

@@ -15,6 +15,13 @@ describe("Calculadora de cadenas", () => {
   it("debería retornar la suma para una cadena con varios números separados por coma", () => {
     expect(sumar("1,2,3")).toEqual(6);
   });
+
+  it("debería retornar la suma usando guion como separador", () => {
+    expect(sumar("1-2,3")).toEqual(6);
+  });
+  it("debería retornar la suma usando guion como separador", () => {
+    expect(sumar("1-2-3,5")).toEqual(11);
+  });
 });
 
 
