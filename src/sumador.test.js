@@ -35,7 +35,7 @@ describe("Calculadora de cadenas", () => {
     expect(sumar("//[**,] 6**,7**,4")).toEqual(17)})
   
     it("debería retornar la suma ignorando numeros > 1000", () => {
-      expect(sumer("2,1001")).toEqual(2);
+      expect(sumar("2,1001")).toEqual(2);
     })
 });
 

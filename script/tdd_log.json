@@ -190,9 +190,23 @@
     "testId": 9
   },
   {
-    "commitId": "HEAD",
+    "commitId": "12a50201b63b8b338cccc34d4072b3a1d8696a20",
     "commitName": "delim split fix",
     "commitTimestamp": 1779930597061,
     "testId": 9
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 1,
+    "numTotalTests": 10,
+    "timestamp": 1779930621865,
+    "success": false,
+    "testId": 10
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "delim split fix 2",
+    "commitTimestamp": 1779930628084,
+    "testId": 10
   }
 ]

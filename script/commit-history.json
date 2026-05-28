@@ -171,17 +171,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "12a50201b63b8b338cccc34d4072b3a1d8696a20",
     "author": "cazadorDeColombianos",
     "commit": {
       "date": "2026-05-28T01:09:56.000Z",
       "message": "delim split fix",
-      "url": "https://github.com/drakexcaptainop/TDDLabBaseProject./commit/HEAD"
+      "url": "https://github.com/drakexcaptainop/TDDLabBaseProject./commit/12a50201b63b8b338cccc34d4072b3a1d8696a20"
     },
     "stats": {
       "total": 7,
       "additions": 7,
       "deletions": 0,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 10,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "cazadorDeColombianos",
+    "commit": {
+      "date": "2026-05-28T01:10:27.000Z",
+      "message": "delim split fix 2",
+      "url": "https://github.com/drakexcaptainop/TDDLabBaseProject./commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
       "date": "2026-05-28"
     },
     "coverage": 100,
