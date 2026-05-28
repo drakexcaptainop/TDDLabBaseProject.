@@ -30,6 +30,13 @@ describe("Calculadora de cadenas", () => {
   it("debería retornar la suma usando un delimitador personalizado especificado", () => {
     expect(sumar("//[:] 6:7:4")).toEqual(17);
   });
+
+  it("debería retornar la suma usando un delimitador personalizado especificado", () => {
+    expect(sumar("//[**,] 6**,7**,4")).toEqual(17)})
+  
+    it("debería retornar la suma ignorando numeros > 1000", () => {
+      expect(sumer("2,1001")).toEqual(2);
+    })
 });
 
 
