@@ -94,9 +94,23 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b0948f2346602fb35598bd1318ec7f96a5eb0b63",
     "commitName": "multi number sum",
     "commitTimestamp": 1779930060318,
     "testId": 5
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1779930120855,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "multi number sum fix",
+    "commitTimestamp": 1779930132979,
+    "testId": 6
   }
 ]
